@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 hi clone demo
+=======
+hi am bad boy
+>>>>>>> Stashed changes
